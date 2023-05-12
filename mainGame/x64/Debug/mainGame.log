@@ -1,0 +1,8 @@
+﻿  GameEnding.cpp
+  GameManager.cpp
+C:\programming\ConsoleGame\RuningCircle_getKey\mainGame\GameManager.cpp(634,27): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\programming\ConsoleGame\RuningCircle_getKey\mainGame\GameManager.cpp(634,30): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  main.cpp
+  Maps.cpp
+  코드를 생성하고 있습니다...
+  mainGame.vcxproj -> C:\programming\ConsoleGame\RuningCircle_getKey\x64\Debug\mainGame.exe
